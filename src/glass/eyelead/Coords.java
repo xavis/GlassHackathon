@@ -8,7 +8,9 @@ public class Coords {
 	String [] info;
 	Bitmap foto;
 	
-	private Coords(){
+	public Coords(double la, double lo, String[] s){
+		
+		
 		
 	}
 	
