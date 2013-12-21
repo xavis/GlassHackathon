@@ -10,6 +10,9 @@ public class Coords {
 	
 	public Coords(double la, double lo, String[] s){
 		
+		lat = la;
+		lo = lon;
+		info = s;
 		
 		
 	}
